@@ -3,10 +3,14 @@
 
 #### 💹 Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dcube9&show_icons=true&hide_border=true&theme=dark)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcube9&layout=compact&e&hide_border=true&theme=dark)](https://github.com/dcube9/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dcube9&show_icons=true&hide_border=true&theme=nord)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcube9&layout=compact&e&hide_border=true&theme=nord)
 <!--
 **dcube9/dcube9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+&theme=dark
+&theme=nord
+
 
 Here are some ideas to get you started:
 
